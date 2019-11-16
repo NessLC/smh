@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+
+# Custom Configuration
+config/development.js
+config/production.js
+
+# Ignore CSV files
+*.csv
+tmp/
+pdfs/
